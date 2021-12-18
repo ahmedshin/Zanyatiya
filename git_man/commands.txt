@@ -24,5 +24,21 @@ git push --set-upstream https://github.com/ahmedshin/Zanyatiya.git master
 
 git remote add origin git@github.com:ahmedshin/Zanyatiya.git
 
+git remote -v
+
+git branch
+
+git branch test
     
+git checkout test
+
+git checkout -b test
+
+git checkout master
+
+git merge test
+
+git branch -d test
+
+git branch -D test
 
