@@ -8,7 +8,7 @@ git commit -m "My text"
 
 git log
 
-git log -p
+git log -p/Users/user/Documents/Zanyatiya/git_man/commands.txt
 
 git -p -1
 
@@ -16,4 +16,10 @@ git diff --staged
 
 git checkout --file.txt	
 
+git clone https://github.com/ahmedshin/Z...
+
+git push origin    or
+
+git push --set-upstream https://github.com/ahmedshin/Zanyatiya.git master
+    
 
