@@ -42,3 +42,12 @@ git branch -d test
 
 git branch -D test
 
+git checkout f0b5f113b70df541a091bd0baab11a507afb8c6d. (откат на определенный комит, хэш смотрим через git log)
+
+git checkout master
+
+git reset --hard HEAD~
+
+git reset --hard HEAD~2
+
+git reset --soft HEAD~4 
