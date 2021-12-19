@@ -32,7 +32,7 @@ git branch test
     
 git checkout test
 
-git checkout -b test
+git checkout -b test  # Создать ветку и перейти на нее
 
 git checkout master
 
